@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{% load static %}
+
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Заявление принято!</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+	<div class="col-md-8 offset-md-2">
+		<h1 class="success">Заявление принято!</h1>
+		<p>Ваше заявление успешно принято. Спасибо!</p>
+		<p><a href="{% url 'index' %}">Заполнить еще одно заявление на вступление в ОСМУСС</a></p>
+		<p><a href="http://www.muctr.ru/cullife/osmuss/index.php">Перейти в раздел ОСМУСС на официальном сайте РХТУ имени Д.И. Менделеева</a></p>
+	</div>
+</body>
+</html>
