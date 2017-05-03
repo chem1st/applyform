@@ -36,7 +36,7 @@ SECRET_KEY = get_env_variable("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'osmuss.muctr.ru']
+ALLOWED_HOSTS = ['127.0.0.1', '193.232.56.50', 'osmuss.muctr.ru']
 
 DEFAULT_FROM_EMAIL = 'osmuss@muctr.ru'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'

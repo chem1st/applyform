@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"La",
+				"LabEquipment"
+			],
+			[
+				"Lab",
+				"LabEquipmentAdmin"
+			],
+			[
+				"ve",
+				"verbose_name_plural"
+			],
+			[
+				"Ch",
+				"CharField"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"S",
+				"SynthesisDetailView"
+			],
+			[
+				"P",
+				"ProjectDetailView"
+			],
+			[
+				"tr",
+				"trivial"
+			],
+			[
+				"Си",
+				"Синтез"
+			],
+			[
+				"Con",
+				"ContactsView"
+			],
+			[
+				"O",
+				"OrderRequest"
+			],
+			[
+				"Ma",
+				"MailRequest"
+			],
+			[
+				"se",
+				"sendmail"
+			],
+			[
+				"order",
+				"ordermail"
+			],
+			[
+				"Po",
+				"PostCreateView"
+			],
+			[
+				"dar",
+				"dark-grey"
+			],
+			[
+				"lig",
+				"light-grey"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"da",
+				"dark-grey"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"Co",
+				"CommentForm"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"li",
+				"light-grey"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"Pos",
+				"PostDetailView"
+			],
+			[
+				"Post",
+				"PostForm"
+			],
+			[
+				"U",
+				"UserExtend"
+			],
+			[
+				"Tagged",
+				"TaggedProjectListView"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"D",
+				"DraftProperty"
+			],
+			[
+				"dark",
+				"dark-sky"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"10px",
+				"10px"
+			],
+			[
+				"Ho",
+				"HomeView"
+			],
+			[
+				"pla",
+				"placeholder"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"Tex",
+				"text-transform"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/chem1st/projects/applyform/applyform/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3920,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/chem1st/projects/applyform/applyform/templates/success.html",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Unix",
+				"name": "success.html"
+			}
+		},
+		{
+			"file": "/home/chem1st/projects/applyform/applyform/main/views.py",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/chem1st/projects/applyform/applyform/static/css/style.css",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "Package Control: I",
+		"selected_items":
+		[
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/chem1st/projects/applyform/applyform",
+		"/home/chem1st/projects/applyform/applyform/config",
+		"/home/chem1st/projects/applyform/applyform/main",
+		"/home/chem1st/projects/applyform/applyform/static",
+		"/home/chem1st/projects/applyform/applyform/static/css",
+		"/home/chem1st/projects/applyform/applyform/templates"
+	],
+	"file_history":
+	[
+		"/home/chem1st/projects/applyform/applyform/templates/form.html",
+		"/home/chem1st/projects/labnote/labnote/experiments/templates/experiments/project_list.html",
+		"/home/chem1st/projects/labnote/labnote/static/css/style.css",
+		"/home/chem1st/projects/labnote/labnote/templates/index.html",
+		"/home/chem1st/projects/labnote/labnote/templates/base.html",
+		"/home/chem1st/projects/labnote/labnote/experiments/templates/experiments/synthesis_detail.html",
+		"/home/chem1st/projects/labnote/labnote/experiments/templates/experiments/synthesis_list.html",
+		"/home/chem1st/projects/labnote/labnote/experiments/models.py",
+		"/home/chem1st/projects/labnote/labnote/experiments/admin.py",
+		"/home/chem1st/projects/labnote/labnote/equipment/models.py",
+		"/home/chem1st/projects/labnote/labnote/config/settings.py",
+		"/home/chem1st/projects/labnote/labnote/analysis/models.py",
+		"/home/chem1st/projects/labnote/labnote/equipment/admin.py",
+		"/home/chem1st/projects/labnote/labnote/main/views.py",
+		"/home/chem1st/projects/labnote/labnote/experiments/views.py",
+		"/home/chem1st/projects/labnote/labnote/config/urls.py",
+		"/home/chem1st/projects/labnote/labnote/experiments/templates/experiments/project_detail.html",
+		"/home/chem1st/projects/labnote/labnote/analysis/admin.py",
+		"/home/chem1st/projects/labnote/labnote/static/css/default.css",
+		"/home/chem1st/projects/labnote/labnote/experiments/urls.py",
+		"/home/chem1st/projects/labnote/labnote/bower.json",
+		"/home/chem1st/projects/labnote/labnote/static/css/dashboard.css",
+		"/home/chem1st/projects/labnote/labnote/reactives/models.py",
+		"/home/chem1st/projects/labnote/labnote/reactives/admin.py",
+		"/home/chem1st/projects/labnote/labnote/.bowerrc",
+		"/home/chem1st/projects/newsf/sf/static/sass/style.sass",
+		"/home/chem1st/projects/newsf/sf/bower.json",
+		"/home/chem1st/projects/newsf/sf/contacts/templates/contacts/contacts.html",
+		"/home/chem1st/projects/newsf/sf/templates/base.html",
+		"/home/chem1st/projects/newsf/sf/work/templates/projects/project_detail.html",
+		"/home/chem1st/projects/newsf/sf/contacts/views.py",
+		"/home/chem1st/projects/newsf/sf/config/settings/production.py",
+		"/home/chem1st/projects/newsf/sf/config/urls.py",
+		"/home/chem1st/projects/newsf/sf/gulpfile.js",
+		"/home/chem1st/projects/newsf/sf/prices/templates/prices/price_detail.html",
+		"/home/chem1st/projects/newsf/sf/contacts/templates/contacts/success.html",
+		"/home/chem1st/projects/newsf/sf/posts/templates/posts/post_list.html",
+		"/home/chem1st/projects/newsf/sf/posts/templates/posts/post_detail.html",
+		"/home/chem1st/projects/newsf/sf/posts/templates/posts/post_delete_confirm.html",
+		"/home/chem1st/projects/newsf/sf/posts/templates/posts/post_form.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/registration_form.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/registration_complete.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/registration_closed.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/password_reset_form.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/password_reset_done.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/password_reset_confirm.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/password_reset_complete.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/password_change_form.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/password_change_done.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/login.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/logout.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/activation_complete.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/activate.html",
+		"/home/chem1st/projects/newsf/sf/templates/index.html",
+		"/home/chem1st/projects/newsf/sf/prices/models.py",
+		"/home/chem1st/projects/newsf/sf/posts/models.py",
+		"/home/chem1st/projects/newsf/sf/contacts/templates/contacts/msg.txt",
+		"/home/chem1st/projects/newsf/sf/contacts/templates/contacts/msg.html",
+		"/home/chem1st/projects/newsf/sf/config/settings/base.py",
+		"/home/chem1st/projects/newsf/sf/config/settings/local.py",
+		"/home/chem1st/projects/newsf/sf/build/css/vendor.min.css",
+		"/home/chem1st/projects/newsf/sf/static/css/bootstrap.min.css",
+		"/home/chem1st/projects/newsf/sf/main/utils.py",
+		"/home/chem1st/projects/newsf/sf/work/apps.py",
+		"/home/chem1st/projects/newsf/sf/reviews/apps.py",
+		"/home/chem1st/projects/newsf/sf/prices/apps.py",
+		"/home/chem1st/projects/newsf/sf/posts/apps.py",
+		"/home/chem1st/projects/newsf/sf/contacts/apps.py",
+		"/home/chem1st/projects/newsf/sf/work/__init__.py",
+		"/home/chem1st/projects/newsf/sf/reviews/__init__.py",
+		"/home/chem1st/projects/newsf/sf/prices/__init__.py",
+		"/home/chem1st/projects/newsf/sf/posts/__init__.py",
+		"/home/chem1st/projects/newsf/sf/contacts/__init__.py",
+		"/home/chem1st/projects/newsf/sf/main/views.py",
+		"/home/chem1st/projects/newsf/sf/config/wsgi.py",
+		"/home/chem1st/projects/newsf/sf/contacts/models.py",
+		"/home/chem1st/projects/newsf/sf/contacts/forms.py",
+		"/home/chem1st/projects/newsf/sf/work/templates/projects/projects.html",
+		"/home/chem1st/projects/newsf/sf/manage.py",
+		"/home/chem1st/projects/newsf/sf/config/settings/__init__.py",
+		"/home/chem1st/projects/newsf/sf/config/settings.py",
+		"/home/chem1st/projects/newsf/sf/main/forms.py",
+		"/home/chem1st/projects/newsf/sf/main/models.py",
+		"/home/chem1st/projects/newsf/sf/reviews/admin.py",
+		"/home/chem1st/projects/newsf/sf/main/processors.py",
+		"/home/chem1st/projects/newsf/sf/reviews/models.py",
+		"/home/chem1st/projects/newsf/sf/users/templates/users/user_info.html",
+		"/home/chem1st/projects/newsf/sf/posts/views.py",
+		"/home/chem1st/projects/newsf/sf/users/models.py",
+		"/home/chem1st/projects/newsf/sf/users/templates/users/profile_base.html",
+		"/home/chem1st/projects/newsf/sf/users/views.py",
+		"/home/chem1st/projects/newsf/sf/users/urls.py",
+		"/home/chem1st/projects/newsf/sf/users/templates/users/profile.html",
+		"/home/chem1st/projects/newsf/sf/posts/admin.py",
+		"/home/chem1st/projects/newsf/sf/users/admin.py",
+		"/home/chem1st/projects/newsf/sf/posts/urls.py",
+		"/home/chem1st/projects/newsf/sf/templates/registration/password_reset_email.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/activation_email_subject.txt",
+		"/home/chem1st/projects/newsf/sf/templates/registration/registration_base.html",
+		"/home/chem1st/projects/newsf/sf/templates/registration/activation_email.txt",
+		"/home/chem1st/projects/newsf/sf/templates/registration/activation_email.html",
+		"/home/chem1st/projects/newsf/sf/posts/forms.py",
+		"/home/chem1st/projects/newsf/sf/work/models.py",
+		"/home/chem1st/projects/newsf/sf/work/urls.py",
+		"/home/chem1st/projects/newsf/sf/main/templatetags/general_tags.py",
+		"/home/chem1st/projects/newsf/sf/work/views.py",
+		"/home/chem1st/projects/newsf/sf/work/admin.py",
+		"/home/chem1st/projects/newsf/sf/templatetags/general_tags.py",
+		"/home/chem1st/projects/newsf/sf/templatetags/__init__.py",
+		"/home/chem1st/projects/newsf/sf/prices/views.py",
+		"/home/chem1st/projects/.envs/newsf/lib/python2.7/site-packages/django/db/models/fields/related.py",
+		"/home/chem1st/projects/newsf/sf/prices/templates/prices/prices.html",
+		"/home/chem1st/projects/newsf/sf/prices/urls.py",
+		"/home/chem1st/projects/newsf/sf/static/css/style.css",
+		"/home/chem1st/projects/newsf/sf/prices/admin.py",
+		"/home/chem1st/projects/newsf/sf/templates/about.html",
+		"/home/chem1st/projects/newsf/sf/contacts/urls.py",
+		"/home/chem1st/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/chem1st/projects/myproject/config/settings.py",
+		"/home/chem1st/projects/myproject/templates/home.html",
+		"/home/chem1st/projects/myproject/main/views.py",
+		"/home/chem1st/projects/myproject/config/urls.py",
+		"/home/chem1st/projects/newsfgit/sf/templates/base.html",
+		"/home/chem1st/projects/newsf/sf/static/js/projects.js",
+		"/home/chem1st/projects/newsf/sf/static/css/template.css",
+		"/home/chem1st/projects/newsf/sf/package.json",
+		"/home/chem1st/projects/newsf/sf/.bowerrc",
+		"/home/chem1st/projects/pontoTel/css/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ек",
+			"p",
+			"table",
+			"tabl",
+			"tablr",
+			"table",
+			"=\"\">{{",
+			"font-awe",
+			"з",
+			"tether",
+			"url(",
+			"inp",
+			" '",
+			"redirect",
+			"render",
+			"з",
+			"aстроительстве",
+			"p",
+			"bold",
+			"boldсв",
+			"bold",
+			"boldмы",
+			"зНаш",
+			">\n",
+			"5",
+			"hr",
+			"h1",
+			"img",
+			"fade",
+			"!\">",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/chem1st/projects/applyform/applyform/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1160,
+								1160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 233.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/chem1st/projects/applyform/applyform/templates/success.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								662,
+								662
+							]
+						],
+						"settings":
+						{
+							"auto_name": "success.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/chem1st/projects/applyform/applyform/main/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1120,
+								1120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 92.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/chem1st/projects/applyform/applyform/static/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": -0.0,
+						"translation.y": 29.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "applyform.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
